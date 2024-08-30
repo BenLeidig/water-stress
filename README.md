@@ -2,7 +2,7 @@
 
 ## Preface:
 
-This was a team project for the Illinois Data Science Club. I, along with my three team members, Ryan Sponzilli, Benjamin Carlson, and Nina Trousdale, and our projeect lead, Samuel Barbeau, contributed to this project. My teammates and I presented the final form of the project to a panel of four professional data scientists to be graded in the Data Dive competition.
+This was a team project for the Illinois Data Science Club. I, along with my three team members, Ryan Sponzilli, Benjamin Carlson, and Nina Trousdale, and our project lead, Samuel Barbeau, contributed to this project. My teammates and I presented the final form of the project to a panel of four professional data scientists to be graded in the Data Dive competition.
 
 ## Overview:
 
